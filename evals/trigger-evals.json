@@ -1,0 +1,22 @@
+[
+  {"query": "build me a little weather app for my gran, pulling the forecast from the met office free api, host it on my wordpress site", "should_trigger": true},
+  {"query": "i made a few songs in suno last month, can i put them on spotify and sell the album?", "should_trigger": true},
+  {"query": "scrape all the product prices off this competitor's site into a csv every night", "should_trigger": true},
+  {"query": "found this cool repo on github, no licence file in it, want to fork it and use it in my client's app", "should_trigger": true},
+  {"query": "use these fonts and the stock photos from the folder for the flyer, then print 500 copies for the shop", "should_trigger": true},
+  {"query": "make a dashboard of uk bus delays using the open data feed, publish it publicly", "should_trigger": true},
+  {"query": "i want to train a small model on a pile of reddit posts, thoughts on getting started", "should_trigger": true},
+  {"query": "can i put the claude-written chapters in my novel and publish it on kindle", "should_trigger": true},
+  {"query": "turn this youtube lecture's transcript into a study guide i can post on my blog", "should_trigger": true},
+  {"query": "wire the app up to the openweather api, ill sort out the key later", "should_trigger": true},
+  {"query": "write a python function that sorts a list of dicts by date", "should_trigger": false},
+  {"query": "what's the difference between MIT and GPL in plain english", "should_trigger": false},
+  {"query": "proofread my own short story, it's all my own work", "should_trigger": false},
+  {"query": "draft a contract for a freelance designer I'm hiring", "should_trigger": false},
+  {"query": "explain how rate limiting works in an API gateway", "should_trigger": false},
+  {"query": "review this NDA a supplier sent me and flag the risky clauses", "should_trigger": false},
+  {"query": "refactor my own react component to use hooks", "should_trigger": false},
+  {"query": "summarise the privacy policy I pasted below in five bullets", "should_trigger": false},
+  {"query": "write a readme for my own repo, it's MIT licensed and has no third-party data", "should_trigger": false},
+  {"query": "make me a logo from scratch for my board game shop using only shapes I describe", "should_trigger": false}
+]
